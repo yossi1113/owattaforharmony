@@ -1,2 +1,2 @@
-harmony
+git+https://github.com/yossi1113/harmony.py.git
 python-dotenv
